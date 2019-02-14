@@ -3,7 +3,7 @@ require('quotes.php');
 ?>
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Nathan Hunt</title>
 	<meta charset="utf-8">
@@ -18,7 +18,7 @@ require('quotes.php');
 		</div>
 
 		<div id="photos">
-			<img src="img/IMG_0089.JPG"/>
+			<img src="img/IMG_0089.JPG" alt="an image of Nathan Hunt"/>
 		</div>
 
 		<div id="about-me">
